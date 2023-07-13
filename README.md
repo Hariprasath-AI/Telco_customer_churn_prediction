@@ -2,4 +2,4 @@
 
 ## Final solution link is here...
 
-https://hariprasathgurusamy.github.io/Telco_customer_churn_prediction/Telco-Customer-Churn.html
+https://hariprasath-ai.github.io/Telco_customer_churn_prediction/Telco-Customer-Churn.html
